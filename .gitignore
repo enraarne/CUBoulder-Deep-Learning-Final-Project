@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
+
+models/
+history/
+Architectural_Heritage_Elements_Dataset_128/
+data/
+old/
+DTSA_5511_Final_Project_Instructions.png
+Classification_of_Architectural_Heritage_Images_Us.pdf
